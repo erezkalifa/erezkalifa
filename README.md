@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erez</h1>
 <h3 align="center">A passionate Software developer from Israel</h3>
 
-- 🔭 I’m currently working on **(Self) web-portfolio**
-
 - 🌱 I’m currently learning **C++, JavaScript, ReacJS, Node.js.**
 
 - 📫 How to reach me **erezkalifa10@gmail.com**
